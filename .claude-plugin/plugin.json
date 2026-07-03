@@ -1,0 +1,21 @@
+{
+  "name": "tal-branding-team",
+  "description": "צוות הברנדינג של טל אקרלינג - סוכני AI בעברית לבניית מותג שלם לעסקים בישראל: אסטרטגיה, סיפור מותג, ניימינג, טון דיבור, זהות חזותית, מסרים, ספר מותג ועוד.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tal Eckerling"
+  },
+  "keywords": [
+    "ai-team",
+    "hebrew",
+    "israel",
+    "branding",
+    "brand-strategy",
+    "naming",
+    "tone-of-voice",
+    "visual-identity",
+    "brand-book",
+    "small-business"
+  ],
+  "userConfig": {}
+}

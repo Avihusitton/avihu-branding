@@ -1,0 +1,39 @@
+{
+  "name": "tal-branding-team-marketplace",
+  "owner": {
+    "name": "Tal Eckerling"
+  },
+  "metadata": {
+    "description": "צוות הברנדינג של טל אקרלינג - מחלקת המותג: אסטרטגיה, סיפור מותג, ניימינג, טון דיבור, זהות חזותית, מסרים, ספר מותג ועוד.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "tal-branding-team",
+      "description": "צוות הברנדינג של טל אקרלינג - סוכני AI בעברית לבניית מותג שלם לעסקים בישראל.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tal-branding-team",
+        "./skills/omer-brand-strategy",
+        "./skills/hadar-brand-story",
+        "./skills/niv-naming",
+        "./skills/lia-tone-of-voice",
+        "./skills/matan-messaging",
+        "./skills/adi-positioning",
+        "./skills/shachaf-art-director",
+        "./skills/inbal-type-design",
+        "./skills/nevo-web-design",
+        "./skills/oren-brand-architecture",
+        "./skills/gal-personal-brand",
+        "./skills/sivan-brand-experience",
+        "./skills/hadas-brand-book",
+        "./skills/eran-brand-audit",
+        "./skills/rotem-rebrand",
+        "./skills/itai-brand-launch",
+        "./skills/neta-brand-kit",
+        "./skills/ron-employer-brand"
+      ]
+    }
+  ]
+}
